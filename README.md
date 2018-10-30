@@ -3,8 +3,10 @@ Healthy food: from packaging to consumption
 
 # Abstract
 One of the highest stake of the century is to limit the damages made on natural resources. Understanding where the food is produced, packaged and consumed can show insights about the current issues. In some countries, there is a tendency to favor local products, we want to see if this is really the case and see how the food travels. Moreover, we would like to estimate the impact of those travels on the carbon footprint index.
-Also, we will try to see if there is any correlation between the packaging of a product (color, shape, material) and its quality in terms of nutritious facts. Are there dominant colors in the packaging that could describe the overall quality of the food?
-Our project is motivated by the idea of understanding these tendencies in the marketing behind the food industry, to have a good way to visualize those results and to see whether the use of machine learning can bring some interesting insights. 
+
+In a later part, we will try to see if there is any correlation between the packaging of a product (color, shape, material) and its quality in terms of nutritious facts. Are there dominant colors in the packaging that could describe the overall quality of the food?
+
+Our project is motivated by the idea of understanding these tendencies in the marketing behind the food industry, to have a good way to visualize those results and to see whether the use of machine learning for computer vision can bring some interesting insights. 
 
 # Research questions
 * How does food products travel before being sold?
