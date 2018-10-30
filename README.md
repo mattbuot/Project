@@ -2,16 +2,20 @@
 Healthy food: from packaging to consumption
 
 # Abstract
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+One of the highest stake of the century is to limit the damages made on natural resources. Understanding where the food is produced, packaged and consumed can show insights about the current issues. In some countries, there is a tendency to favor local products, we want to see if this is really the case and see how the food travels. Moreover, we would like to estimate the impact of those travels on the carbon footprint index.
+Also, we will try to see if there is any correlation between the packaging of a product (color, shape, material) and its quality in terms of nutritious facts. Are there dominant colors in the packaging that could describe the overall quality of the food?
+Our project is motivated by the idea of understanding these tendencies in the marketing behind the food industry, to have a good way to visualize those results and to see whether the use of machine learning can bring some interesting insights. 
 
 # Research questions
-A list of research questions you would like to address during the project. 
+* How does food products travel before being sold?
+* Which countries consume the best food in terms of nutritious facts?
+* Which brands produce healthier and more environmental friendly food?
+* Does packaging allows consumers to have a good idea of a product quality?
 
 # Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+* Open Food Facts database: this database is organized in a csv file, we will probably consider columns such as 'nutrition_grade_fr' or 'carbon-footprint_100g'. There is also a 'image_url' which can be used to describe the packaging with some image processing or machine learning techniques.
 
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
 
 # Questions for TAa
-Add here some questions you have for us, in general or project-specific.
