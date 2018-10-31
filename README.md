@@ -20,4 +20,4 @@ Our project is motivated by the idea of understanding these tendencies in the ma
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
 
-# Questions for TAa
+# Questions for TAs
