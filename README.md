@@ -15,9 +15,9 @@ Our project is motivated by the idea of understanding these tendencies in the ma
 * Does packaging allows consumers to have a good idea of a product quality?
 
 # Dataset
-***Open Food Facts database***: this database is organized in a csv file, we will probably consider columns such as 'nutrition_grade_fr' or 'carbon-footprint_100g'. The fields 'origins', 'manufacturing_places', 'cities' and 'countries' will be useful to better understand how the food travels around the world. 	`This is code`
+***Open Food Facts database***: this database is organized in a csv file, we will probably consider columns such as `nutrition_grade_fr` or `carbon-footprint_100g`. The fields `origins`, `manufacturing_places`, `cities` and `countries` will be useful to better understand how the food travels around the world.
 
-There is also a 'image_url' field which can be used to retrieve an image of the packaging, so that we can describe it, find patterns, with some image processing or machine learning techniques. Also, the 'packaging' field contains information about the material and shape of the packaging.
+There is also a `image_url` field which can be used to retrieve an image of the packaging, so that we can describe it, find patterns, with some image processing or machine learning techniques. Also, the `packaging` field contains information about the material and shape of the packaging.
 
 # A list of internal milestones up until project milestone 2
 * Technical preparation: setup the repository with proper .gitignore file, branches and file hierarchy. Download the datasets
