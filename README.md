@@ -20,11 +20,11 @@ Our project is motivated by the idea of understanding these tendencies in the ma
 There is also an `image_url` field which can be used to retrieve an image of the packaging, so that we can describe it, find patterns, with some image processing or machine learning techniques. Also, the `packaging` field contains information about the material and shape of the packaging.
 
 # A list of internal milestones up until project milestone 2
-* Technical preparation: setup the repository with proper .gitignore file, branches and file hierarchy. Download the datasets
-* Get a more precise idea on which visualizations we want for our results, and thus which libraries we should use
-* Exploratory data analysis: explore the dataset, understand the data we are working on and document it. Understand the correlations, the potential redundancies and the outliers. Refresh on relational models and think about applying them to the datasets to make them easier to use
-* Transform the datasets according to our needs, discarding what we will not use and isolating what will interest us the most (when possible)
-* Make statistical models for the quantities that we want to count, and make sure that our research is unbiased, or quantify the bias and keep it minimal
-* Update our project's direction with respect to our better knowledge of the datasets
+* Technical preparation: setup the repository with proper .gitignore file, branches and file hierarchy. Download the datasets.
+* Get a more precise idea on which visualizations we want for our results, and thus which libraries we should use.
+* Exploratory data analysis: explore the dataset, understand the data we are working on and document it. Understand the correlations, the potential redundancies and the outliers. Refresh on relational models and think about applying them to the datasets to make them easier to use.
+* Transform the datasets according to our needs, discarding what we will not use and isolating what will interest us the most (when possible).
+* Make statistical models for the quantities that we want to count, and make sure that our research is unbiased, or quantify the bias and keep it minimal.
+* Update our project's direction with respect to our better knowledge of the datasets.
 
 # Questions for TAs
