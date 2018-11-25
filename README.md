@@ -15,7 +15,7 @@ Our project is motivated by the idea of understanding these tendencies in the ma
 * Which countries consume the best food in terms of nutritional intake?
 * Do BIO products have a more environmental friendly packaging?
 * Do BIO products come from the country, or are they imported?
-* Which brands produce healthier and more environmental friendly food?
+* Which countries produce healthier and more environmental friendly food?
 * Does packaging allows consumers to have a good idea of a product quality?
 
 # Dataset
