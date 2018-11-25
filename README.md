@@ -33,4 +33,36 @@ There is also an `image_url` field which can be used to retrieve an image of the
 * Make statistical models for the quantities that we want to count, and make sure that our research is unbiased, or quantify the bias and keep it minimal.
 * Update our project's direction with respect to our better knowledge of the datasets.
 
+# A list of internal milestones up until the final submission
+
+**We have chosen the pdf report for the final submission.**
+
+For the 3rd milestone, we mainly plan to:
+
+* Work on the formatting of packaging (in order to have everything in the same language, and matching precise names, like we did for the countries) → For the 2nd of December.
+
+* Add visualization part (world map) For each country we plan to display some nutritional information about its products (from the columns of the form information_100g) → For the 2nd of December.
+
+* Make some analysis on more labels (among vegan, gluten-free, halal and fair-trade) → For the 7th of December.
+
+* Perform the machine learning part with the images for the BIO products (to see if there are recurrent patterns or dominant colors) → For the 7th of December
+
+**Note that we already created a script in order to download the images of products with the BIO label. It can be found in the file `images_download.py.`**
+
+* Complete the report → For the 14th of December
+
+* Review our report before the final submission and enhance it → For the 16th of December
+
+# Plans for the presentation
+
+For the presentation, we plan to:
+
+* Give an introduction about the problem of how the food travels, packaging issues and nutrition concerns.
+
+* Explain what our project was about (where the food comes from, biological products, packaging & nutritional values)
+
+* Show and explain the different insights we got together with the maps of the world
+
+* Show the machine learning part and indicate the patterns and dominant colors we found for the biological products
+
 # Questions for TAs
