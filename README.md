@@ -47,7 +47,7 @@ For the 3rd milestone, we mainly plan to:
 
 * Perform the machine learning part with the images for the BIO products (to see if there are recurrent patterns or dominant colors) → For the 7th of December
 
-**Note that we already created a script in order to download the images of products with the BIO label. It can be found in the file images_download.py.**
+**Note that we already created a script in order to download the images of products with the BIO label. It can be found in the file `images_download.py.`**
 
 * Complete the report → For the 14th of December
 
