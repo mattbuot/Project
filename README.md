@@ -64,5 +64,3 @@ For the presentation, we plan to:
 * Show and explain the different insights we got together with the maps of the world
 
 * Show the machine learning part and indicate the patterns and dominant colors we found for the organic products
-
-# Questions for TAs
