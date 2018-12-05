@@ -4,7 +4,7 @@ Healthy food: from packaging to consumption
 # Abstract
 One of the highest stake of the century is to limit the damage done to natural resources. Understanding where the food is produced, packaged and consumed can show insights about the current issues in the food industry. In some countries, there is a tendency to favor local products, we want to see if this is really the case and see which countries import-export where.
 
-A second analysis will be made on the products designed as BIO. What types of packaging are used for these products? Today, we use a lot of plastic, so it would be interesting to see if the BIO products try to limit this tendency. Also, we will try to see if the BIO products are local or imported. We surely hope that it is local, and using this dataset will certainly lead to useful insights.
+A second analysis will be made on the products designed as organic. What types of packaging are used for these products? Today, we use a lot of plastic, so it would be interesting to see if the organic products try to limit this tendency. Also, we will try to see if the organic products are local or imported. We surely hope that it is local, and using this dataset will certainly lead to useful insights.
 
 In a later part, we will try to see if there is any correlation between the packaging of a product (color, shape, material) and its quality in terms of nutritious facts. Are there dominant colors in the packaging that could describe the overall quality of the food?
 
@@ -13,8 +13,8 @@ Our project is motivated by the idea of understanding these tendencies in the ma
 # Research questions
 * How do food products are imported and exported?
 * Which countries consume the best food in terms of nutritional intake?
-* Do BIO products have a more environmental friendly packaging?
-* Do BIO products come from the country, or are they imported?
+* Do organic products have a more environmental friendly packaging?
+* Do organic products come from the country, or are they imported?
 * Which countries produce healthier and more environmental friendly food?
 * Does packaging allows consumers to have a good idea of a product quality?
 
@@ -45,7 +45,7 @@ For the 3rd milestone, we mainly plan to:
 
 * Make some analysis on more labels (among vegan, gluten-free, halal and fair-trade) → For the 7th of December.
 
-* Perform the machine learning part with the images for the BIO products (to see if there are recurrent patterns or dominant colors) → For the 7th of December
+* Perform the machine learning part with the images for the organic products (to see if there are recurrent patterns or dominant colors) → For the 7th of December
 
 **Note that we already created a script in order to download the images of products with the BIO label. It can be found in the file `images_download.py.`**
 
@@ -59,10 +59,10 @@ For the presentation, we plan to:
 
 * Give an introduction about the problem of how the food travels, packaging issues and nutrition concerns.
 
-* Explain what our project was about (where the food comes from, biological products, packaging & nutritional values)
+* Explain what our project was about (where the food comes from, organic products, packaging & nutritional values)
 
 * Show and explain the different insights we got together with the maps of the world
 
-* Show the machine learning part and indicate the patterns and dominant colors we found for the biological products
+* Show the machine learning part and indicate the patterns and dominant colors we found for the organic products
 
 # Questions for TAs
