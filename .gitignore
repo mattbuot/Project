@@ -1,5 +1,9 @@
 *.csv
 *.jpg
+*.png
 *.pb
 *Labels_filtering_and_images_downloading*
 *Text_detection*
+*Dominant*
+ipynb_checkpoints/
+*.json
