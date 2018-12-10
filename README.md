@@ -1,5 +1,4 @@
-# Title
-Healthy food: from packaging to consumption
+# Healthy food: from packaging to consumption
 
 # Running our notebook
 In order to view everything, including the Folium maps, our notebook should be viewed as html. It is stored in docs/index.html. The html file should be accessed from https://mattbuot.github.io/Project/.
