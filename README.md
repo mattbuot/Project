@@ -3,7 +3,7 @@
 ## Running our notebook
 In order to view everything, including the Folium maps, our notebook should be viewed as html. It is stored in docs/index.html. The html file should be accessed from https://mattbuot.github.io/Project/.
 
-In case this does not work, you can still view the file ProjectADA-Final.ipynb in Github (everything is displayed except the maps), download the `maps` folder and manually open the maps that you want with Google Chrome.
+In case this does not work, you can still view the file ProjectADA-Final.ipynb in Github (everything is displayed except the maps), download our repository, go to the `maps` folder and manually open the maps that you want with Google Chrome.
 
 You can also run our notebook, but for this you would need to download about 2 GB of csv data from https://static.openfoodfacts.org/data/en.openfoodfacts.org.products.csv, put that into the data folder, to install the libraries we use, and the version of Folium needs to be at least 0.7 (very recent). Also, our notebook can be quite long to run (5-30 mins depending on the computer) since we did not include any save of the cleaned data in the last version of the notebook (in order to make it a bit shorter).
 
