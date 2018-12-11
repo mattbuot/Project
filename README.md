@@ -63,10 +63,21 @@ For the 3rd milestone, we mainly plan to:
 
 For the presentation, we plan to:
 
-* Give an introduction about the problem of how the food travels, packaging issues and nutrition concerns.
+* Give an introduction about the problem of how the food travels, packaging issues, organic products.
 
-* Explain what our project was about (where the food comes from, organic products, packaging & nutritional values)
+* Explain what our project was about (where the food comes from, organic products, packaging)
 
-* Show and explain the different insights we got together with the maps of the world
+* Explain cleaning of the dataset shortly, and indicate the analyses we performed (import-export, packaging, images of packaging)
 
-* Show the machine learning part and indicate the patterns and dominant colors we found for the organic products
+* Show the results on the poster, which will include: 
+  * A map of Europe with countries from which France imports
+  * A map of the world showing the proportion of plastic
+  * Comparison of packaging for organic VS non-organic products
+  * Explain the spectra obtained for the image processing part
+  * Conclude with some explanations
+ 
+ ## Contributions of group members
+ The workload was distributed in the following way:
+**Valérian**: Cleaning of the dataset, analysis packaging & visualizations (maps)
+ **Matthieu**: Image processing of the packages
+ **Adrien**: Analysis of import-export & report
