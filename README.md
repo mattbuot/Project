@@ -76,8 +76,11 @@ For the presentation, we plan to:
   * Explain the spectra obtained for the image processing part
   * Conclude with some explanations
  
- ## Contributions of group members
- The workload was distributed in the following way:
+## Contributions of group members
+The workload was distributed in the following way:
+ 
 **Valérian**: Cleaning of the dataset, analysis packaging & visualizations (maps)
- **Matthieu**: Image processing of the packages
- **Adrien**: Analysis of import-export & report
+
+**Matthieu**: Image processing of the packages
+ 
+**Adrien**: Analysis of import-export & report
