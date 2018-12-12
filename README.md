@@ -18,7 +18,7 @@ Our project is motivated by the idea of understanding these tendencies in the ma
 
 ## Research questions
 * How do food products are imported and exported?
-* Which countries consume the best food in terms of nutritional intake?
+* What proportion of products are imported and exported?
 * Do organic products have a more environmental friendly packaging?
 * Do organic products come from the country, or are they imported?
 * Which countries produce healthier and more environmental friendly food?
@@ -75,6 +75,23 @@ For the presentation, we plan to:
   * Comparison of packaging for organic VS non-organic products
   * Explain the spectra obtained for the image processing part
   * Conclude with some explanations
+  
+## Plans for the design of the poster
+
+For the poster, we plan to:
+* Add the visualizations of the different results which includes:
+  * One map of import export
+  * Maps showing the packaging used around the world
+  * Comparison of packaging organic VS non-organic products
+  * Add the spectra for image processing part
+  
+* Explanations, which will include:
+  * Introduction of our project & problematic
+  * Cleaning of the data
+  * Briefly explain import/export + packaging
+  * More explanations for image processing
+  * Comments on the results
+  * Conclusion
  
 ## Contributions of group members
 The workload was distributed in the following way:
