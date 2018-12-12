@@ -18,7 +18,7 @@ Our project is motivated by the idea of understanding these tendencies in the ma
 
 ## Research questions
 * How do food products are imported and exported?
-* Which countries consume the best food in terms of nutritional intake?
+* What proportion of products are imported and exported?
 * Do organic products have a more environmental friendly packaging?
 * Do organic products come from the country, or are they imported?
 * Which countries produce healthier and more environmental friendly food?
@@ -63,10 +63,41 @@ For the 3rd milestone, we mainly plan to:
 
 For the presentation, we plan to:
 
-* Give an introduction about the problem of how the food travels, packaging issues and nutrition concerns.
+* Give an introduction about the problem of how the food travels, packaging issues, organic products.
 
-* Explain what our project was about (where the food comes from, organic products, packaging & nutritional values)
+* Explain what our project was about (where the food comes from, organic products, packaging)
 
-* Show and explain the different insights we got together with the maps of the world
+* Explain cleaning of the dataset shortly, and indicate the analyses we performed (import-export, packaging, images of packaging)
 
-* Show the machine learning part and indicate the patterns and dominant colors we found for the organic products
+* Show the results on the poster, which will include: 
+  * A map of Europe with countries from which France imports
+  * A map of the world showing the proportion of plastic
+  * Comparison of packaging for organic VS non-organic products
+  * Explain the spectra obtained for the image processing part
+  * Conclude with some explanations
+  
+## Plans for the design of the poster
+
+For the poster, we plan to:
+* Add the visualizations of the different results which includes:
+  * One map of import export
+  * Maps showing the packaging used around the world
+  * Comparison of packaging organic VS non-organic products
+  * Add the spectra for image processing part
+  
+* Explanations, which will include:
+  * Introduction of our project & problematic
+  * Cleaning of the data
+  * Briefly explain import/export + packaging
+  * More explanations for image processing
+  * Comments on the results
+  * Conclusion
+ 
+## Contributions of group members
+The workload was distributed in the following way:
+ 
+**Valérian**: Cleaning of the dataset, analysis packaging & visualizations (maps)
+
+**Matthieu**: Image processing of the packages
+ 
+**Adrien**: Analysis of import-export & report
