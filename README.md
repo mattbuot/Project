@@ -7,6 +7,8 @@ In case this does not work, you can still view the file ProjectADA-Final.ipynb i
 
 You can also run our notebook, but for this you would need to download about 2 GB of csv data from https://static.openfoodfacts.org/data/en.openfoodfacts.org.products.csv, put that into the data folder, to install the libraries we use, and the version of Folium needs to be at least 0.7 (very recent). Also, our notebook can be quite long to run (5-30 mins depending on the computer) since we did not include any save of the cleaned data in the last version of the notebook (in order to make it a bit shorter).
 
+Sometimes when trying to do a lot of GET requests (for image downloading in our case) the connection can blocked by the network provider. If you encouter a 'HTTPSConnectionPool Error' try again on the EPFL network or through the VPN.
+
 ## Abstract
 One of the highest stake of the century is to limit the damage done to natural resources. Understanding where the food is produced, packaged and consumed can show insights about the current issues in the food industry. In some countries, there is a tendency to favor local products, we want to see if this is really the case and see which countries import-export where.
 
